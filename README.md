@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrihariR2004
+- 👋 Hi, I’m @SrihariR
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...Artificial Intellegence And Data Science
 - 💞️ I’m looking to collaborate on ...On Best company
